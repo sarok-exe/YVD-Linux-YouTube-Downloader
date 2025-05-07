@@ -1,0 +1,2 @@
+chmod +x download_videos.sh
+./download_videos.sh
